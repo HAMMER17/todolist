@@ -99,7 +99,8 @@ li {
 }
 
 .done {
-  text-decoration: line-through red;
+  text-decoration: line-through;
+  text-decoration-color: red;
   /* color: red; */
 }
 

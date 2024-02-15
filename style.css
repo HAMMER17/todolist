@@ -73,6 +73,11 @@ li {
   display: none;
 }
 
+.task_list {
+  text-align: center;
+  margin: 10px;
+}
+
 .task_list button {
   padding: 10px;
   background: red;
